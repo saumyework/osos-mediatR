@@ -1,9 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Authors>Jimmy Bogard</Authors>
-    <Description>Simple, unambitious mediator implementation in .NET</Description>
-    <Copyright>Copyright Jimmy Bogard</Copyright>
+    <Authors>OSOS;Jimmy Bogard</Authors>
+    <Company>OSOS</Company>
+    <Description>OSOS internal fork of MediatR (originally by Jimmy Bogard), maintained independently from the v12.5.0 Apache-2.0 baseline. Not the package from nuget.org - do not update from nuget.org.</Description>
+    <Copyright>Copyright Jimmy Bogard. Modifications Copyright OSOS.</Copyright>
     <TargetFrameworks>netstandard2.0;net8.0;net9.0;net10.0</TargetFrameworks>
     <Nullable>enable</Nullable>
     <Features>strict</Features>
